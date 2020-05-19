@@ -1,0 +1,166 @@
+header {
+    background-color: #F2D5FA   ;
+    color: #080100;
+    padding: 10px;
+    text-align: left;
+}
+.navbarstyle{
+	background-color: #750C94  ;
+}
+.navbar-text{
+	font-weight: 400;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.banner{
+	height:auto;
+	min-height:200px;
+}
+
+.menu-section {
+    background-color: #750C94 ;
+}
+.menu-section .nav > li > a:hover {
+  
+    background-color: #F2D5FA ;
+	
+}
+#menu-top a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 10px 10px 10px 10px;
+    text-transform: uppercase;
+}
+#menu-top a:hover {
+	  font-weight:700;
+	  color: #050505 ;
+}
+
+#active{
+    background-color: #F2D5FA ;
+    color: #050505 ;
+}
+.content-wrapper {
+   
+    min-height: 400px;
+    padding-bottom: 60px;
+	background-color: #F2D5FA; 
+}
+.content-wrapper2 {
+    
+    min-height: 400px;
+    padding-bottom: 60px;
+	background-color: #F2D5FA;
+}
+.content-margin{
+		margin-top:20px
+}
+.logocontainer{
+	width:350px;
+	height:60px;
+	background-color:#C21313; 
+	margin-top:50px;
+	border-radius:7px;
+}
+.logo{
+	width:120px;
+	height:120px;
+	border-radius:50%;
+	position:absolute;
+	top:17px;
+	left:49px;
+}
+h3{
+  color:#C10000;
+}
+.logostyle{
+	padding-left:170px;
+	font-size: 20px;
+	padding-top:8px;
+	font-weight:600;
+	color:#FFFFFF ;
+}
+.panelprimary{
+		
+  		border-color: #750C94;
+}
+.panelheading{
+		color: #fff;
+  		background-color: #750C94;
+  		border-color: #750C94;
+		padding: 10px 15px;
+  		border-bottom: 1px solid transparent;
+  		border-top-left-radius: 3px;
+ 	    border-top-right-radius: 3px;
+		
+}
+.panelbody{
+		border-top-color: #750C94;
+		 padding: 15px;
+		 
+}
+footer {
+    padding: 10px;
+    color: #fff;
+    font-size: 13px;
+    background-color: #750C94;
+}
+.page-head-line {
+    font-weight: 900;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #750C94;
+    text-transform: uppercase;
+    color: #750C94;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+/*==============================================
+    DASHBOARD  STYLES    
+ =============================================*/
+
+/* DASHBOARD ICONS */
+
+.bk-clr-one {
+    background-color: #B9B739;
+}
+
+.bk-clr-two {
+    background-color: #F94C4C;
+}
+
+.bk-clr-three {
+    background-color: #119c7e;
+}
+
+.bk-clr-four {
+    background-color: #b739b9;
+}
+
+.dashboard-div-icon {
+    height: 75px;
+    width: 75px;
+    border: 2px solid #fff;
+    padding: 20px;
+    border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.dashboard-div-wrapper {
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+    .dashboard-div-wrapper .progress {
+        height: 2px;
+    }
+	
